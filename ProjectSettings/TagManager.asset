@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - koini
+  - trap
+  - gm
+  - chck
+  - info
+  - info2
+  - levelis_dasasruli
+  - info3
+  - formula
+  - troled
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - main camera
+  - Water
+  - UI
+  - background
+  - ground
+  - coins
+  - player
+  - enemy
+  - robotboy
+  - levelis dasasruli
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: beckground
+    uniqueID: 1475545477
+    locked: 0
+  - name: ground
+    uniqueID: 1590411105
+    locked: 0
+  - name: main_Player
+    uniqueID: 1218889653
+    locked: 0
+  - name: koini
+    uniqueID: 2027818249
+    locked: 0
+  - name: enemy
+    uniqueID: 1775584977
+    locked: 0
+  - name: levelis dasasruli
+    uniqueID: 1554516357
+    locked: 0
